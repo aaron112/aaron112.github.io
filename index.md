@@ -1,0 +1,140 @@
+---
+layout: post
+title: "About me"
+---
+
+What I have achieved (at work)
+---
+I have just graduated from UC San Diego with B.S. in Computer Science. As my senior year began, I started working part-time for a startup where I have built and shipped products to customers including the US Army, National Laboratories, NASA and Homeland Security. 
+
+- Today, I am primarily **in charge of an Android project, that turns an Android phone into a public safety radio**, on the software and UI design aspect. (Used by Border Patrol, Police and Firefighters) 
+The app involves **socket programming** for talking to the hardware counterpart and **Android NDK (Native development kit) for real-time audio processing and VoIP stack**. The project itself serves as a low-cost alternative to traditional handheld radios and offers portability between LMR (Land mobile radio) network and LTE networks.
+- I also rewrote a C based fountain coding algorithm in **Java** with Object-oriented software design, added multi-threading and **optimized performance by 10%+** using thread pool.
+- At the same time, I designed and implemented a **Java UI** using **SWT** (Standard Widget Toolkit) for configuring and controlling advanced RF hardware, during which I also **debugged the FTP server (C Code)** running on the hardware.
+- During summer 2013, I interned at L-3 Communications and **worked with two other interns to create a flight telemetry visualization app for Android**, during which I designed and implemented a widget drag-and-drop framework and a TCP+UDP combined protocol for real-time data transmission.
+
+
+<a id="projects"></a>
+Side projects
+---
+- **CheckMate App** – Working on an Android app for tips calculation, bill splitting and debts tracking, with focus on UI/UX. Planned features include real time notification to other parties, debt reminder and debt simplification.
+  * **Android**
+- **Reduced-C Complier for SPARC** – A Reduced-C Compiler written in Java for Compiler Construction class. Continuously refactored to improve maintainability. [View Code on Github][rccomp]
+  * **Java, Complier, SPARC Assembly**
+- **Ocuhub** (2014) - An app launcher for patients with Locked-in syndrome. Written in HTML and JavaScript (JQuery) for running on MS Surface with an eye tracker.
+  * **JavaScript, CSS, JQuery**
+- **Serious Business** (2014) – A mobile web application for reserving commuter shuttle for UCSD community. 
+  * **Node.js, Handlebars, JavaScript, JQuery, AJAX, JSON, Mongoose, MongoDB, HTML, CSS**
+- **MyCity** (2013) – A location-based social networking Android app. Features include viewing buddies’ location on map, broadcasting, group chat, upload user content, and POI display to enable users to quickly find a place to meet up. Team Lead.
+  * **Android, Java, Google APIs, Google App Engine**
+
+[rccomp]: http://github.com/aaron112/RCComp
+
+
+<div class="gallery">
+    <a href="images/portfolio/sb_poster.png" title="SeriousBusiness - Poster created for final Demo. Contains everything about the project and screenshots."><img src="images/portfolio/thumbnails/sb_poster.png"></a>
+    <a href="images/portfolio/cm_front_contactlist.jpg" title="CheckMate App - Google Cards-like UI design and contact list"><img src="images/portfolio/thumbnails/cm_front_contactlist.jpg"></a>
+    <a href="images/portfolio/cm_data_entry_tips_calc.jpg" title="CheckMate App - Data Entry, Google Places API integration, Tips Calculator"><img src="images/portfolio/thumbnails/cm_data_entry_tips_calc.jpg"></a>
+</div>
+
+<script>
+$(document).ready(function() {
+	$('.gallery').each(function() {
+	    $(this).magnificPopup({
+	        delegate: 'a', // the selector for gallery item
+	        type: 'image',
+	        gallery: {
+	          enabled:true
+	        },
+	        mainClass: 'mfp-with-zoom', // this class is for CSS animation below
+
+			  zoom: {
+			    enabled: true, // By default it's false, so don't forget to enable it
+
+			    duration: 300, // duration of the effect, in milliseconds
+			    easing: 'ease-in-out', // CSS transition easing function 
+
+			    // The "opener" function should return the element from which popup will be zoomed in
+			    // and to which popup will be scaled down
+			    // By defailt it looks for an image tag:
+			    opener: function(openerElement) {
+			      // openerElement is the element on which popup was initialized, in this case its <a> tag
+			      // you don't need to add "opener" option if this code matches your needs, it's defailt one.
+			      return openerElement.is('img') ? openerElement : openerElement.find('img');
+			    }
+			  }
+	    });
+	});
+});
+</script>
+
+
+<a id="award"></a>
+Award
+---
+**Miniroute** (2014) - Router & firewall implementation in C. [**Won CNS Espresso Price for Excellence in Networking, selected as the best among 120+ other implementations.**][espresso]
+
+[espresso]: http://cns.ucsd.edu/wordpress/cns-students-portal/cns-espresso-prize-for-excellence-in-networking-2/
+
+
+<a id="the-past"></a>
+The past
+---
+While I was at De Anza College, I wrote a lot of **low-level C**, where I tackled with **pointers** and memory management. As well as some **C++, Java and x86 assembly**. While at UCSD, the main focus was **Java, C++** and **algorithm**. The project of most fun was the compiler project, where I have to write a Reduced-C (A subset of C Language) **compiler** in **Java** for the SPARC architecture. I've also started creating **Android** apps using **Android SDK** and mobile web applications using **Node.js and JQuery Mobile**. For school & personal projects, I have used **PostgreSQL, Parse, Google App Engine and Amazon EC2**.
+
+
+<a id="tech-stack"></a>
+Tech stack
+---
+- **Specialties: Android, Java, C**
+- Experience in: Android NDK, JNI, C++, UI, SWT, x86 & SPARC Assembly, Network Programming, Wireshark, Eclipse, Sublime Text, Linux, Mac, SVN, git, PHP, Perl, SQL, MySQL, CSS, AJAX, JavaScript, JSON, JQuery, Node.js, MongoDB
+- From day to day, I use my Linux (Ubuntu) desktop and my Macbook Air (running OSX). For projects running on Windows, I run them in a Virtual machine. I have been using Eclipse with ADT for Android development, and I am currently in the process of adapting to Android Studio (since it has become official) and Maven. For other projects, I usually use Sublime Text.
+
+
+<a id="work-exp"></a>
+Work experiences
+---
+### **Software Engineer Intern / Contractor** at MaXentric Technologies (4/2014 - Present)
+- Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 
+- Designed and implemented a Java Graphical UI with SWT (Standard Widget Toolkit) for configuring and controlling advanced RF hardware.  **Java, SWT, GUI**
+- Fixed existing bugs in C Code (Telnet & FTP Server) running on FPGA, by analyzing packet traffic using **Wireshark. C**
+- Rewrote a C based fountain coding algorithm in Java with Object-oriented software design, added multi-threading and optimized performance by 10%+ using thread pool. **C, Java, Multithreading, Concurrency** 
+- Debugged, refactored and added relational database storage functionality to existing C libraries. **C, Sqlite**
+- Started working remotely as a contractor in Feb 2015 after moving to Santa Clara due to personal reasons.
+
+### **Assistant Programmer (STDT 4)** at Qualcomm Institute (Calit2) / UCSD (10/2013 - 4/2014)
+- Designed and implemented an Android app (MaXphone) that enables mobile devices to communicate with P25 (Public Safety) radios through SDR (Software Defined Radio) and IP network. **Android, Java, TCP/IP, VoIP, Sip**
+- Integrated with open-source libraries to provide Video/Voice conferencing over VoIP. 
+- Worked under contract for MaXentric Technologies and later directly employed as an intern.
+
+### **Engineering Intern (Software)** at L-3 Communications Telemetry-West (6/2013 – 9/2013)
+- Collaborated with other interns to develop a mobile app for flight telemetry visualization. **Android**
+- Designed common interfaces using software design patterns and Object-oriented methodologies. **Java**
+- Designed and implemented a TCP/IP application protocol for real-time data transmission. **TCP, UDP**
+
+### **Network Administrator & Technical Support** at Fullchamp Enterprise Limited (5/2009 - 6/2013)
+- Built and maintained an office network with 20+ workstations. 
+- Setup and maintained two servers running KVM and OpenVZ virtualization, for application servers such as Mail, DHCP, DNS, OpenVPN and Samba/NFS. 
+- Created system automation scripts for backup and other routine operations. 
+- Addressed users’ issues and provide resolutions in a timely manner. 
+- Provided remote support to end users from United States during college.
+
+
+<a id="education"></a>
+Education
+---
+###University of California, San Diego (UCSD) (12/2014)
+- B.S. Computer Science, GPA: 3.49
+- Coursework: Computer Networks, Computer Security, HCI Design, Database Systems, Ubiquitous Computing, Software Engineering, Algorithm, Data Structures, Operating Systems, Compiler Construction
+
+
+<a id="my-belief"></a>
+My belief
+---
+I’m truly passionate about Software Development -- Android and/or network programming in particular but I always enjoy learning new technologies, as long as they are open source, and I tend to them pick up pretty quickly. I believe that programming is an art. By writing clean and self-explanatory code, we could greatly reduce the number of bugs in our software, as well as making it easily understood by anyone. (I always have an urge to refactor/rewrite spaghetti codes, given that deadlines can be met)
+
+
+<a id="what-i-am-looking-for"></a>
+What I am looking for
+---
+I am looking for a full-time Software Engineer position where I can make significant contributions, or even better, that my work will actually be used by someone out there. Creating something useful makes me feel fulfilled. On the other hand, I am down to working for a company that understands developers may not be the most productive when restricted to a 9-5 work day. All in all, I want to be in a team working towards a clear goal, that solves a real world problem.
