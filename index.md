@@ -15,12 +15,10 @@ Work experiences
 - Fixed existing bugs in C Code (Telnet & FTP Server) running on FPGA, by analyzing packet traffic using **Wireshark. C**
 - Rewrote a C based fountain coding algorithm in Java with Object-oriented software design, added multi-threading and optimized performance by 10%+ using thread pool. **C, Java, Multithreading, Concurrency** 
 - Debugged, refactored and added relational database storage functionality to existing C libraries. **C, Sqlite**
-- Started working remotely as a contractor in Feb 2015 after moving to Santa Clara due to personal reasons.
 
 ### **Assistant Programmer (STDT 4)** at Qualcomm Institute (Calit2) / UCSD (10/2013 - 4/2014)
 - Designed and implemented an Android app (MaXphone) that enables mobile devices to communicate with P25 (Public Safety) radios through SDR (Software Defined Radio) and IP network. **Android, Java, TCP/IP, VoIP, Sip**
 - Integrated with open-source libraries to provide Video/Voice conferencing over VoIP. 
-- Worked under contract for MaXentric Technologies and later directly employed as an intern.
 
 ### **Engineering Intern (Software)** at L-3 Communications Telemetry-West (6/2013 – 9/2013)
 - Collaborated with other interns to develop a mobile app for flight telemetry visualization. **Android**
