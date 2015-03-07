@@ -9,7 +9,7 @@ Work experiences
 ---
 ### **Software Engineer** at Airtime (3/2015 - Present)
 
-### **Software Engineer Intern / Contractor** at MaXentric Technologies (4/2014 - 3/2015)
+### **Software Engineer** at MaXentric Technologies (4/2014 - 3/2015)
 - Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 
 - Designed and implemented a Java Graphical UI with SWT (Standard Widget Toolkit) for configuring and controlling advanced RF hardware.  **Java, SWT, GUI**
 - Fixed existing bugs in C Code (Telnet & FTP Server) running on FPGA, by analyzing packet traffic using **Wireshark. C**
