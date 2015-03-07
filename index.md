@@ -52,44 +52,6 @@ Side projects
 [rccomp]: http://github.com/aaron112/RCComp
 
 
-<div class="gallery">
-    <a href="images/portfolio/sb_poster.png" title="SeriousBusiness - Poster created for final Demo. Contains everything about the project and screenshots."><img src="images/portfolio/thumbnails/sb_poster.png"></a>
-    <a href="images/portfolio/cm_front_contactlist.jpg" title="CheckMate App - Google Cards-like UI design and contact list"><img src="images/portfolio/thumbnails/cm_front_contactlist.jpg"></a>
-    <a href="images/portfolio/cm_data_entry_tips_calc.jpg" title="CheckMate App - Data Entry, Google Places API integration, Tips Calculator"><img src="images/portfolio/thumbnails/cm_data_entry_tips_calc.jpg"></a>
-</div>
-
-<script>
-$(document).ready(function() {
-	$('.gallery').each(function() {
-	    $(this).magnificPopup({
-	        delegate: 'a', // the selector for gallery item
-	        type: 'image',
-	        gallery: {
-	          enabled:true
-	        },
-	        mainClass: 'mfp-with-zoom', // this class is for CSS animation below
-
-			  zoom: {
-			    enabled: true, // By default it's false, so don't forget to enable it
-
-			    duration: 300, // duration of the effect, in milliseconds
-			    easing: 'ease-in-out', // CSS transition easing function 
-
-			    // The "opener" function should return the element from which popup will be zoomed in
-			    // and to which popup will be scaled down
-			    // By defailt it looks for an image tag:
-			    opener: function(openerElement) {
-			      // openerElement is the element on which popup was initialized, in this case its <a> tag
-			      // you don't need to add "opener" option if this code matches your needs, it's defailt one.
-			      return openerElement.is('img') ? openerElement : openerElement.find('img');
-			    }
-			  }
-	    });
-	});
-});
-</script>
-
-
 <a id="award"></a>
 Award
 ---
