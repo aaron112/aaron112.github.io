@@ -3,15 +3,36 @@ layout: post
 title: "About me"
 ---
 
-What I have achieved (at work)
----
-I have just graduated from UC San Diego with B.S. in Computer Science. As my senior year began, I started working part-time for a startup where I have built and shipped products to customers including the US Army, National Laboratories, NASA and Homeland Security. 
 
-- Today, I am primarily **in charge of an Android project, that turns an Android phone into a public safety radio**, on the software and UI design aspect. (Used by Border Patrol, Police and Firefighters) 
-The app involves **socket programming** for talking to the hardware counterpart and **Android NDK (Native development kit) for real-time audio processing and VoIP stack**. The project itself serves as a low-cost alternative to traditional handheld radios and offers portability between LMR (Land mobile radio) network and LTE networks.
-- I also rewrote a C based fountain coding algorithm in **Java** with Object-oriented software design, added multi-threading and **optimized performance by 10%+** using thread pool.
-- At the same time, I designed and implemented a **Java UI** using **SWT** (Standard Widget Toolkit) for configuring and controlling advanced RF hardware, during which I also **debugged the FTP server (C Code)** running on the hardware.
-- During summer 2013, I interned at L-3 Communications and **worked with two other interns to create a flight telemetry visualization app for Android**, during which I designed and implemented a widget drag-and-drop framework and a TCP+UDP combined protocol for real-time data transmission.
+<a id="work-exp"></a>
+Work experiences
+---
+### **Software Engineer** at Airtime (3/2015 - Present)
+
+### **Software Engineer Intern / Contractor** at MaXentric Technologies (4/2014 - 3/2015)
+- Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 
+- Designed and implemented a Java Graphical UI with SWT (Standard Widget Toolkit) for configuring and controlling advanced RF hardware.  **Java, SWT, GUI**
+- Fixed existing bugs in C Code (Telnet & FTP Server) running on FPGA, by analyzing packet traffic using **Wireshark. C**
+- Rewrote a C based fountain coding algorithm in Java with Object-oriented software design, added multi-threading and optimized performance by 10%+ using thread pool. **C, Java, Multithreading, Concurrency** 
+- Debugged, refactored and added relational database storage functionality to existing C libraries. **C, Sqlite**
+- Started working remotely as a contractor in Feb 2015 after moving to Santa Clara due to personal reasons.
+
+### **Assistant Programmer (STDT 4)** at Qualcomm Institute (Calit2) / UCSD (10/2013 - 4/2014)
+- Designed and implemented an Android app (MaXphone) that enables mobile devices to communicate with P25 (Public Safety) radios through SDR (Software Defined Radio) and IP network. **Android, Java, TCP/IP, VoIP, Sip**
+- Integrated with open-source libraries to provide Video/Voice conferencing over VoIP. 
+- Worked under contract for MaXentric Technologies and later directly employed as an intern.
+
+### **Engineering Intern (Software)** at L-3 Communications Telemetry-West (6/2013 – 9/2013)
+- Collaborated with other interns to develop a mobile app for flight telemetry visualization. **Android**
+- Designed common interfaces using software design patterns and Object-oriented methodologies. **Java**
+- Designed and implemented a TCP/IP application protocol for real-time data transmission. **TCP, UDP**
+
+### **Network Administrator & Technical Support** at Fullchamp Enterprise Limited (5/2009 - 6/2013)
+- Built and maintained an office network with 20+ workstations. 
+- Setup and maintained two servers running KVM and OpenVZ virtualization, for application servers such as Mail, DHCP, DNS, OpenVPN and Samba/NFS. 
+- Created system automation scripts for backup and other routine operations. 
+- Addressed users’ issues and provide resolutions in a timely manner. 
+- Provided remote support to end users from United States during college.
 
 
 <a id="projects"></a>
@@ -91,40 +112,11 @@ Tech stack
 - From day to day, I use my Linux (Ubuntu) desktop and my Macbook Air (running OSX). For projects running on Windows, I run them in a Virtual machine. I have been using Eclipse with ADT for Android development, and I am currently in the process of adapting to Android Studio (since it has become official) and Maven. For other projects, I usually use Sublime Text.
 
 
-<a id="work-exp"></a>
-Work experiences
----
-### **Software Engineer Intern / Contractor** at MaXentric Technologies (4/2014 - Present)
-- Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 
-- Designed and implemented a Java Graphical UI with SWT (Standard Widget Toolkit) for configuring and controlling advanced RF hardware.  **Java, SWT, GUI**
-- Fixed existing bugs in C Code (Telnet & FTP Server) running on FPGA, by analyzing packet traffic using **Wireshark. C**
-- Rewrote a C based fountain coding algorithm in Java with Object-oriented software design, added multi-threading and optimized performance by 10%+ using thread pool. **C, Java, Multithreading, Concurrency** 
-- Debugged, refactored and added relational database storage functionality to existing C libraries. **C, Sqlite**
-- Started working remotely as a contractor in Feb 2015 after moving to Santa Clara due to personal reasons.
-
-### **Assistant Programmer (STDT 4)** at Qualcomm Institute (Calit2) / UCSD (10/2013 - 4/2014)
-- Designed and implemented an Android app (MaXphone) that enables mobile devices to communicate with P25 (Public Safety) radios through SDR (Software Defined Radio) and IP network. **Android, Java, TCP/IP, VoIP, Sip**
-- Integrated with open-source libraries to provide Video/Voice conferencing over VoIP. 
-- Worked under contract for MaXentric Technologies and later directly employed as an intern.
-
-### **Engineering Intern (Software)** at L-3 Communications Telemetry-West (6/2013 – 9/2013)
-- Collaborated with other interns to develop a mobile app for flight telemetry visualization. **Android**
-- Designed common interfaces using software design patterns and Object-oriented methodologies. **Java**
-- Designed and implemented a TCP/IP application protocol for real-time data transmission. **TCP, UDP**
-
-### **Network Administrator & Technical Support** at Fullchamp Enterprise Limited (5/2009 - 6/2013)
-- Built and maintained an office network with 20+ workstations. 
-- Setup and maintained two servers running KVM and OpenVZ virtualization, for application servers such as Mail, DHCP, DNS, OpenVPN and Samba/NFS. 
-- Created system automation scripts for backup and other routine operations. 
-- Addressed users’ issues and provide resolutions in a timely manner. 
-- Provided remote support to end users from United States during college.
-
-
 <a id="education"></a>
 Education
 ---
 ###University of California, San Diego (UCSD) (12/2014)
-- B.S. Computer Science, GPA: 3.49
+- B.S. Computer Science
 - Coursework: Computer Networks, Computer Security, HCI Design, Database Systems, Ubiquitous Computing, Software Engineering, Algorithm, Data Structures, Operating Systems, Compiler Construction
 
 
@@ -132,9 +124,3 @@ Education
 My belief
 ---
 I’m truly passionate about Software Development -- Android and/or network programming in particular but I always enjoy learning new technologies, as long as they are open source, and I tend to them pick up pretty quickly. I believe that programming is an art. By writing clean and self-explanatory code, we could greatly reduce the number of bugs in our software, as well as making it easily understood by anyone. (I always have an urge to refactor/rewrite spaghetti codes, given that deadlines can be met)
-
-
-<a id="what-i-am-looking-for"></a>
-What I am looking for
----
-I am looking for a full-time Software Engineer position where I can make significant contributions, or even better, that my work will actually be used by someone out there. Creating something useful makes me feel fulfilled. On the other hand, I am down to working for a company that understands developers may not be the most productive when restricted to a 9-5 work day. All in all, I want to be in a team working towards a clear goal, that solves a real world problem.
