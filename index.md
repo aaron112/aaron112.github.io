@@ -8,6 +8,7 @@ title: ""
 Work experiences
 ---
 ### **Software Engineer** at Airtime (3/2015 - Present)
+- Bringing our latest WebRTC media stack up and running on Android.
 
 ### **Software Engineer** at MaXentric Technologies (4/2014 - 3/2015)
 - Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 
