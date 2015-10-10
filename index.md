@@ -9,6 +9,7 @@ Work experiences
 ---
 ### **Software Engineer** at Airtime (3/2015 - Present)
 - Bringing our latest WebRTC media stack up and running on Android.
+- Been playing with WebRTC, OpenGL ES, C++, Java, JNI, Android NDK and CMake build system.
 
 ### **Software Engineer** at MaXentric Technologies (4/2014 - 3/2015)
 - Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 
@@ -68,9 +69,8 @@ While I was at De Anza College, I wrote a lot of **low-level C**, where I tackle
 <a id="tech-stack"></a>
 Tech stack
 ---
-- **Specialties: Android, Java, C**
-- Experience in: Android NDK, JNI, C++, UI, SWT, x86 & SPARC Assembly, Network Programming, Wireshark, Eclipse, Sublime Text, Linux, Mac, SVN, git, PHP, Perl, SQL, MySQL, CSS, AJAX, JavaScript, JSON, JQuery, Node.js, MongoDB
-- From day to day, I use my Linux (Ubuntu) desktop and my Macbook Air (running OSX). For projects running on Windows, I run them in a Virtual machine. I have been using Eclipse with ADT for Android development, and I am currently in the process of adapting to Android Studio (since it has become official) and Maven. For other projects, I usually use Sublime Text.
+- **Specialties: Android SDK + NDK, Java, JNI, C, C++**
+- Experience in: Android UI, Java SWT, Network Programming, x86 & SPARC Assembly, Wireshark, Eclipse, Sublime Text, Linux, Mac, SVN, git, PHP, Perl, SQL, MySQL, CSS, AJAX, JavaScript, JSON, JQuery, Node.js, MongoDB
 
 
 <a id="education"></a>
