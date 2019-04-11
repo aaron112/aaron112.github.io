@@ -1,13 +1,10 @@
-markdown: rdiscount
 permalink: /posts/:title
-rdiscount:
-  extensions: [smart]
 
 gems:
   - jekyll-sitemap
 
-name: Aaron Wong
-url: http://aaron.xghk.net
-description: 
+name: Aaron Yip Ming Wong
+url: https://aaron.xghk.net
+description: Android + Media + WebRTC Hacker @ Airtime
 email: aaron.ym.wong@gmail.com 
 linkedin: aaronymwong
