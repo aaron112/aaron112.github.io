@@ -55,9 +55,9 @@ Side projects
 <a id="award"></a>
 Award
 ---
-**Miniroute** (2014) - Router & firewall implementation in C. [**Won CNS Espresso Price for Excellence in Networking, selected as the best among 120+ other implementations.**][espresso]
+**Miniroute** (2014) - Router & firewall implementation in C. [**Won CNS Espresso Price for Excellence in Networking (2014), selected as the best among 120+ other implementations.**][espresso]
 
-[espresso]: http://cns.ucsd.edu/wordpress/cns-students-portal/cns-espresso-prize-for-excellence-in-networking-2/
+[espresso]: https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/
 
 
 <a id="the-past"></a>
