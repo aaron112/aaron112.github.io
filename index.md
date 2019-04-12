@@ -6,9 +6,10 @@ title: ""
 
 <a id="work-exp"></a>
 ## Work experiences
-### **Software Engineer** at Airtime (3/2015 - Present)
-- Bringing our latest WebRTC media stack up and running on Android.
-- Been playing with WebRTC, OpenGL ES, C++, Java, JNI, Android NDK and CMake build system.
+### **Senior Software Engineer** at Airtime (1/2017 - Present)
+### **Software Engineer** at Airtime (3/2015 - 1/2017)
+- Android real-time media and optimization. 
+- Android, WebRTC, ExoPlayer (HLS, DASH), OpenGL ES, AEC, Audio Processing, C++, Java, Kotlin, JNI / NDK
 
 ### **Software Engineer** at MaXentric Technologies (4/2014 - 3/2015)
 - Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 
@@ -21,7 +22,7 @@ title: ""
 - Designed and implemented an Android app (MaXphone) that enables mobile devices to communicate with P25 (Public Safety) radios through SDR (Software Defined Radio) and IP network. **Android, Java, TCP/IP, VoIP, Sip**
 - Integrated with open-source libraries to provide Video/Voice conferencing over VoIP. 
 
-### **Engineering Intern (Software)** at L-3 Communications Telemetry-West (6/2013 – 9/2013)
+### **Software Engineering Intern** at L-3 Communications Telemetry-West (6/2013 – 9/2013)
 - Collaborated with other interns to develop a mobile app for flight telemetry visualization. **Android**
 - Designed common interfaces using software design patterns and Object-oriented methodologies. **Java**
 - Designed and implemented a TCP/IP application protocol for real-time data transmission. **TCP, UDP**
@@ -35,7 +36,7 @@ title: ""
 
 
 <a id="projects"></a>
-## Side projects
+## Projects
 - **CheckMate App** – Working on an Android app for tips calculation, bill splitting and debts tracking, with focus on UI/UX. Planned features include real time notification to other parties, debt reminder and debt simplification.
   * **Android**
 - **Reduced-C Complier for SPARC** – A Reduced-C Compiler written in Java for Compiler Construction class. Continuously refactored to improve maintainability.
@@ -62,8 +63,9 @@ While I was at De Anza College, I wrote a lot of **low-level C**, where I tackle
 
 <a id="tech-stack"></a>
 ## Tech stack
-- **Specialties: Android SDK + NDK, Java, JNI, C, C++**
-- Experience in: Android UI, Java SWT, Network Programming, x86 & SPARC Assembly, Wireshark, Eclipse, Sublime Text, Linux, Mac, SVN, git, PHP, Perl, SQL, MySQL, CSS, AJAX, JavaScript, JSON, JQuery, Node.js, MongoDB
+- **Specialties: Android SDK & NDK, Java, C++14, JNI, Multi-threading, Android Low-Level Media Stuff (Native Audio, MediaCodec, ExoPlayer)**
+- Proficient: Kotlin, OpenGL ES, WebRTC, C++ Template Metaprogramming, Audio Processing, NEON Intrinsics, CMake, C
+- Basic: Objective-C, x86 & SPARC Assembly
 
 
 <a id="education"></a>
