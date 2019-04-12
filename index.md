@@ -5,8 +5,7 @@ title: ""
 
 
 <a id="work-exp"></a>
-Work experiences
----
+## Work experiences
 ### **Software Engineer** at Airtime (3/2015 - Present)
 - Bringing our latest WebRTC media stack up and running on Android.
 - Been playing with WebRTC, OpenGL ES, C++, Java, JNI, Android NDK and CMake build system.
@@ -36,11 +35,10 @@ Work experiences
 
 
 <a id="projects"></a>
-Side projects
----
+## Side projects
 - **CheckMate App** – Working on an Android app for tips calculation, bill splitting and debts tracking, with focus on UI/UX. Planned features include real time notification to other parties, debt reminder and debt simplification.
   * **Android**
-- **Reduced-C Complier for SPARC** – A Reduced-C Compiler written in Java for Compiler Construction class. Continuously refactored to improve maintainability. [View Code on Github][rccomp]
+- **Reduced-C Complier for SPARC** – A Reduced-C Compiler written in Java for Compiler Construction class. Continuously refactored to improve maintainability.
   * **Java, Complier, SPARC Assembly**
 - **Ocuhub** (2014) - An app launcher for patients with Locked-in syndrome. Written in HTML and JavaScript (JQuery) for running on MS Surface with an eye tracker.
   * **JavaScript, CSS, JQuery**
@@ -49,39 +47,32 @@ Side projects
 - **MyCity** (2013) – A location-based social networking Android app. Features include viewing buddies’ location on map, broadcasting, group chat, upload user content, and POI display to enable users to quickly find a place to meet up. Team Lead.
   * **Android, Java, Google APIs, Google App Engine**
 
-[rccomp]: http://github.com/aaron112/RCComp
-
 
 <a id="award"></a>
-Award
----
+## Award
 **Miniroute** (2014) - Router & firewall implementation in C. [**Won CNS Espresso Price for Excellence in Networking (2014), selected as the best among 120+ other implementations.**][espresso]
 
 [espresso]: https://cns.ucsd.edu/cns-students-portal/cns-espresso-prize-for-excellence-in-networking/
 
 
 <a id="the-past"></a>
-The past
----
+## The past
 While I was at De Anza College, I wrote a lot of **low-level C**, where I tackled with **pointers** and memory management. As well as some **C++, Java and x86 assembly**. While at UCSD, the main focus was **Java, C++** and **algorithm**. The project of most fun was the compiler project, where I have to write a Reduced-C (A subset of C Language) **compiler** in **Java** for the SPARC architecture. I've also started creating **Android** apps using **Android SDK** and mobile web applications using **Node.js and JQuery Mobile**. For school & personal projects, I have used **PostgreSQL, Parse, Google App Engine and Amazon EC2**.
 
 
 <a id="tech-stack"></a>
-Tech stack
----
+## Tech stack
 - **Specialties: Android SDK + NDK, Java, JNI, C, C++**
 - Experience in: Android UI, Java SWT, Network Programming, x86 & SPARC Assembly, Wireshark, Eclipse, Sublime Text, Linux, Mac, SVN, git, PHP, Perl, SQL, MySQL, CSS, AJAX, JavaScript, JSON, JQuery, Node.js, MongoDB
 
 
 <a id="education"></a>
-Education
----
-###University of California, San Diego (UCSD) (12/2014)
+## Education
+### University of California, San Diego (UCSD) (12/2014)
 - B.S. Computer Science
 - Coursework: Computer Networks, Computer Security, HCI Design, Database Systems, Ubiquitous Computing, Software Engineering, Algorithm, Data Structures, Operating Systems, Compiler Construction
 
 
 <a id="my-belief"></a>
-My belief
----
+## My belief
 I’m truly passionate about Software Development -- Android and/or network programming in particular but I always enjoy learning new technologies, as long as they are open source, and I tend to them pick up pretty quickly. I believe that programming is an art. By writing clean and self-explanatory code, we could greatly reduce the number of bugs in our software, as well as making it easily understood by anyone. (I always have an urge to refactor/rewrite spaghetti codes, given that deadlines can be met)
