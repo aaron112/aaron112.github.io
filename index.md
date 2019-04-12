@@ -63,8 +63,8 @@ While I was at De Anza College, I wrote a lot of **low-level C**, where I tackle
 
 <a id="tech-stack"></a>
 ## Tech stack
-- **Specialties: Android SDK & NDK, Java, C++14, JNI, Multi-threading, Android Low-Level Media Stuff (Native Audio, MediaCodec, ExoPlayer)**
-- Proficient: Kotlin, OpenGL ES, WebRTC, C++ Template Metaprogramming, Audio Processing, NEON Intrinsics, CMake, C
+- **Specialties: Android SDK & NDK, Kotlin, Java, C++14, JNI, Multi-threading, Android Low-Level Media Stuff (Native Audio, MediaCodec, ExoPlayer)**
+- Proficient: OpenGL ES, WebRTC, C++ Template Metaprogramming, Audio Processing, NEON Intrinsics, CMake, C
 - Basic: Objective-C, x86 & SPARC Assembly
 
 
