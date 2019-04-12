@@ -6,10 +6,8 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Aaron Wong
+name: Aaron Yip Ming Wong
 url: http://aaron.xghk.net
 description: 
 email: aaron.ym.wong@gmail.com 
 linkedin: aaronymwong
-
-theme: jekyll-theme-minimal
