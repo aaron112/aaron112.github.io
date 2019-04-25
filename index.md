@@ -11,8 +11,7 @@ title: ""
 - Architected & implemented our WebRTC-based Android Real-time Media SDK, which is used by the Airtime app to provide multi-party video chat.
 - Working on and optimizing multiple aspects including Audio/Video Capturing, Rendering & Processing, CPU Adaptation, AEC (Acoustic Echo Cancellation) tuning and device-specific quirks.
 - Also implemented features for the Airtime app, such as over-the-network video playback synchronization (watch together), customized ExoPlayer, Super Avatar & animation rendering, as well as other complex features.
-
-- Android, WebRTC, ExoPlayer (HLS, DASH), OpenGL ES, AEC, Audio Processing, C++, Java, Kotlin, JNI / NDK
+- **Android, WebRTC, ExoPlayer (HLS, DASH), OpenGL ES, AEC, Audio Processing, C++, Java, Kotlin, JNI / NDK**
 
 ### **Software Engineer** at MaXentric Technologies (4/2014 - 3/2015)
 - Implemented features for MaXphone (Android app) phase II development, involving Android NDK for real-time audio processing and VoIP stack. **Android, NDK, JNI** 

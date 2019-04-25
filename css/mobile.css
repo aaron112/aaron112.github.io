@@ -4,13 +4,14 @@
   margin: 0;
   padding: 25px; }
   .sidebar img {
-    display: none; }
+    display: flex;
+    margin-bottom: 10px; }
   .sidebar .name {
     display: inline; }
     .sidebar .name #fname, .sidebar .name #lname {
       font-size: 25px; }
   .sidebar .meta {
-    display: none; }
+    margin: 10px 0 10px; }
   .sidebar ul {
     padding: 25px; }
   .sidebar li {
@@ -20,7 +21,7 @@
     .sidebar .sections a {
       font-size: 16px;
       margin: 0 20px 0 0;
-      padding: 5px 10px; }
+      padding: 5px 0; }
 
 .content {
   margin: 0;

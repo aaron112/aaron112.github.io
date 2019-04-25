@@ -11,7 +11,7 @@ a {
   position: fixed;
   left: 15px;
   top: 15px;
-  width: 80px;
+  width: 150px;
   font-family: Helvetica, sans-serif; }
   .sidebar a {
     text-decoration: none; }
@@ -21,17 +21,20 @@ a {
   .sidebar .avatar {
     padding: 0;
     margin-left: 2px;
-    border-radius: 5px; }
+    border-radius: 5px;
+    height: 125px;
+    width: 125px;
+   }
   .sidebar .name {
     text-transform: uppercase;
     margin: 10px 0 20px 0; }
     .sidebar .name #lname {
       padding-left: 1px;
-      font-size: 22px;
+      font-size: 34px;
       letter-spacing: 5px;
       color: black; }
     .sidebar .name #fname {
-      font-size: 23px;
+      font-size: 33px;
       font-weight: bold;
       letter-spacing: 1px;
       color: black; }
@@ -42,15 +45,17 @@ a {
       color: #227ce8; }
   .sidebar .meta {
     margin-left: 4px; }
-  .sidebar .meta .icon {
-    margin-right: 6px; }
+  .sidebar .meta i {
+    margin-right: 23px;
+    font-size: 24px;
+  }
   .sidebar .sections {
     margin: 15px 0 0 0; }
     .sidebar .sections a {
       padding: 3px 0;
       color: black;
       font-weight: bold;
-      font-size: 12px;
+      font-size: 16px;
       display: block; }
       .sidebar .sections a:hover {
         color: #227ce8; }
@@ -63,7 +68,7 @@ a {
 
 .content {
   max-width: 800px;
-  margin-left: 140px;
+  margin-left: 170px;
   margin-right: 20px;
   margin-bottom: 50px; }
   .content h1 {
