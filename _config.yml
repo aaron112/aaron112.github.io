@@ -1,0 +1,10 @@
+permalink: /posts/:title
+
+gems:
+  - jekyll-sitemap
+
+name: Aaron Yip Ming Wong
+url: https://aaronwong.dev
+description: Android + Media + WebRTC Hacker @ Airtime
+email: aaron.ym.wong@gmail.com 
+linkedin: aaronymwong

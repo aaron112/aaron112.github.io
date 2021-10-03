@@ -1,0 +1,27 @@
+<section class="sidebar">
+  <a href="/">
+    <img src="{{ site.github.owner_gravatar_url }}?s=150" height="75" width="75" class="avatar" />
+  </a>
+
+  <section class="name">
+    <a href="/">
+      <span id="fname">{{ site.name|split:' '|first }}</span>
+      <span id="lname">{{ site.name|split:' '|last }}</span>
+    </a>
+  </section>
+
+  <section class="sections">
+    <ul>
+      <li><a href="/#work-exp">Experience</a></li>
+      <li><a href="/#award">Award</a></li>
+      <li><a href="/#tech-stack">Tech Stack</a></li>
+      <li><a href="/#education">Education</a></li>
+    </ul>
+  </section>
+
+  <section class="meta">
+    <a href="mailto:{{ site.email }}" target="_blank"><i class="fa fa-envelope"></i></a>
+    <a href="{{ site.github.owner_url }}" target="_blank"><i class="fa fa-github"></i></a>
+    <a href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+  </section>
+</section>
