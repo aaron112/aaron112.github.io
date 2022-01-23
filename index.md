@@ -8,7 +8,11 @@ title: ""
 
 ## Professional Experience
 
-### **Principal Software Engineer** — Airtime <small>6/2020 - Present</small>
+### **Software Engineer** — Meta <small>1/2022 - Present</small>
+
+- Meta Reality Labs
+
+### **Principal Software Engineer** — Airtime <small>6/2020 - 1/2022</small>
 
 ### **Senior Software Engineer** — Airtime <small>3/2017 - 6/2020</small>
 
